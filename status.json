@@ -5,7 +5,7 @@
   "loader_version": "1.1.0",
   "games": {
     "Counter-Strike 2": {
-      "image": "https://ibb.co/fVHLj4R",
+      "image": "https://ibb.co/7JqQjsbn",
       "status": "Undetect",
       "cheats": [
         { "name": "Private", "status": "Undetect" },
@@ -14,7 +14,7 @@
       ]
     },
     "PUBG": {
-      "image": "https://ibb.co/7JqQjsbn",
+      "image": "https://ibb.co/fVHLj4R",
       "status": "Update",
       "cheats": [
         { "name": "Private", "status": "Update" },
