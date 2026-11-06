@@ -1,0 +1,15 @@
+{
+  "status": "Undetect",
+  "version": "1.0.0",
+  "last_update": "2026-11-06",
+  "games": {
+    "CS2": {"exe": "cs2_external.exe", "status": "Undetect"},
+    "Valorant": {"exe": "valorant_external.exe", "status": "Detect"},
+    "CraftRise": {"exe": "craftrise_external.exe", "status": "Undetect"}
+  },
+  "offsets": {
+    "dwEntityList": "0x17C1B38",
+    "dwLocalPlayerController": "0x17B8A80",
+    "dwViewMatrix": "0x17A3C50"
+  }
+}
