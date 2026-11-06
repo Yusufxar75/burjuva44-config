@@ -1,0 +1,5 @@
+{
+  "BURJUVA-1GUN": {"expires": "2026-11-07T12:00:00", "active": true},
+  "BURJUVA-7GUN": {"expires": "2026-11-13T12:00:00", "active": true},
+  "BURJUVA-TEST": {"expires": "2027-01-01T00:00:00", "active": true}
+}
