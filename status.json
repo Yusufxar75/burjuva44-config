@@ -9,8 +9,8 @@
       "status": "Undetect",
       "cheats": [
         { "name": "Private", "status": "Undetect" },
-        { "name": "Slotted", "status": "Undetect" },
-        { "name": "Dihvh", "status": "Undetect" }
+        { "name": "Faceit", "status": "Update" },
+        { "name": "Dihvh", "status": "Update" }
       ]
     },
     "PUBG": {
