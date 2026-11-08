@@ -1,4 +1,9 @@
 {
+    "B44-FAFV-RPT2-8L2V": {
+        "active": true,
+        "expires": "2026-12-31T11:11:11",
+        "hwid": ""
+    },
     "BURJUVA-1GUN": {
         "active": true,
         "expires": "2026-11-07T12:00:00"
