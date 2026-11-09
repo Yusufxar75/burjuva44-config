@@ -13,7 +13,7 @@
         "expires": "2026-11-13T12:00:00"
     },
     "BURJUVA-TEST": {
-        "active": true,
+        "active": false,
         "expires": "2027-01-01T00:00:00",
         "hwid": "8F8B7C36F52D529E6B2EF5FF8995C87A"
     }
