@@ -1,4 +1,4 @@
-    },
+{
     "B44-FAFV-RPT2-8L2V": {
         "active": false,
         "expires": "2027-01-30T11:11:11",
@@ -11,7 +11,8 @@
     },
     "BURJUVA-1GUN": {
         "active": false,
-        "expires": "2026-11-07T12:00:00"
+        "expires": "2026-11-07T12:00:00",
+        "hwid": ""
     },
     "BURJUVA-7GUN": {
         "active": false,
@@ -19,13 +20,8 @@
         "hwid": ""
     },
     "BURJUVA-TEST": {
-        "active": false,
+        "active": true,
         "expires": "2027-01-01T00:00:00",
         "hwid": "8F8B7C36F52D529E6B2EF5FF8995C87A"
     }
- },
-    "BURJUVA-TEST": {
-        "active": false,
-        "expires": "2027-01-01T00:00:00",
-        "hwid": "8F8B7C36F52D529E6B2EF5FF8995C87A"
-    }
+}
