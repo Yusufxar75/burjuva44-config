@@ -9,7 +9,7 @@
         "expires": "2026-11-07T12:00:00"
     },
     "BURJUVA-7GUN": {
-        "active": true,
+        "active": false,
         "expires": "2026-11-13T12:00:00",
         "hwid": ""
     },
