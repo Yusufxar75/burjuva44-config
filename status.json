@@ -31,6 +31,12 @@
             "process": "craftrise.exe",
             "status": "Update"
         },
+        "FiveM": {
+            "cheats": [],
+            "image": "https://ibb.co/BVsX5MkPhttps://ibb.co/3Yz0qTjz",
+            "process": "fivem.exe",
+            "status": "Update"
+        },
         "PUBG": {
             "cheats": [
                 {
@@ -51,7 +57,7 @@
             "status": "Update"
         }
     },
-    "last_update": "2026-11-08T17:55:01",
+    "last_update": "2026-11-09T16:47:35",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
