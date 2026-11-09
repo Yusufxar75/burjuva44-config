@@ -23,5 +23,10 @@
         "active": true,
         "expires": "2027-01-01T00:00:00",
         "hwid": "8F8B7C36F52D529E6B2EF5FF8995C87A"
+    },
+    "allah1ben0girdi": {
+        "active": true,
+        "expires": "2026-12-31T23:59:59",
+        "hwid": ""
     }
 }
