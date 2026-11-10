@@ -59,11 +59,19 @@
                     "file": "",
                     "name": "Slotted",
                     "status": "Update"
+                },
+                {
+                    "exe": "",
+                    "file": "",
+                    "name": "Rage Private",
+                    "status": "Undetect",
+                    "updated_at": "2026-11-10T20:03:35"
                 }
             ],
             "image": "https://ibb.co/4gZQXLj2",
             "process": "",
-            "status": "Update"
+            "status": "Update",
+            "updated_at": "2026-11-10T20:03:35"
         },
         "Valorant": {
             "cheats": [
@@ -88,7 +96,7 @@
             "updated_at": "2026-11-10T20:02:42"
         }
     },
-    "last_update": "2026-11-10T20:02:43",
+    "last_update": "2026-11-10T20:03:36",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
