@@ -104,15 +104,22 @@
                     "name": "OneClick Spoofer",
                     "status": "Undetect",
                     "updated_at": "2026-11-10T20:02:42"
+                },
+                {
+                    "exe": "",
+                    "file": "",
+                    "name": "BurjuvaDihvh",
+                    "status": "Update",
+                    "updated_at": "2026-11-10T20:05:25"
                 }
             ],
             "image": "https://ibb.co/x8YB0X10",
             "process": "Valorant-Win64-Shipping.exe",
             "status": "Undetect",
-            "updated_at": "2026-11-10T20:02:42"
+            "updated_at": "2026-11-10T20:05:25"
         }
     },
-    "last_update": "2026-11-10T20:04:59",
+    "last_update": "2026-11-10T20:05:25",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
