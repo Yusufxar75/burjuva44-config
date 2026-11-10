@@ -117,8 +117,8 @@
                     "exe": "",
                     "file": "",
                     "name": "OneClick Spoofer",
-                    "status": "Undetect",
-                    "updated_at": "2026-11-10T20:02:42"
+                    "status": "Update",
+                    "updated_at": "2026-11-10T20:10:37"
                 },
                 {
                     "exe": "",
@@ -131,10 +131,10 @@
             "image": "https://ibb.co/x8YB0X10",
             "process": "Valorant-Win64-Shipping.exe",
             "status": "Undetect",
-            "updated_at": "2026-11-10T20:10:27"
+            "updated_at": "2026-11-10T20:10:37"
         }
     },
-    "last_update": "2026-11-10T20:10:27",
+    "last_update": "2026-11-10T20:10:37",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
