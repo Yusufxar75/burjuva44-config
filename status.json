@@ -110,8 +110,8 @@
                     "exe": "",
                     "file": "",
                     "name": "Private",
-                    "status": "Undetect",
-                    "updated_at": "2026-11-10T20:02:25"
+                    "status": "Update",
+                    "updated_at": "2026-11-10T20:10:27"
                 },
                 {
                     "exe": "",
@@ -131,10 +131,10 @@
             "image": "https://ibb.co/x8YB0X10",
             "process": "Valorant-Win64-Shipping.exe",
             "status": "Undetect",
-            "updated_at": "2026-11-10T20:05:25"
+            "updated_at": "2026-11-10T20:10:27"
         }
     },
-    "last_update": "2026-11-10T20:10:13",
+    "last_update": "2026-11-10T20:10:27",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
