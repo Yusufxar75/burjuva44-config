@@ -89,6 +89,21 @@
             "status": "Update",
             "updated_at": "2026-11-10T20:03:35"
         },
+        "Rust": {
+            "cheats": [
+                {
+                    "exe": "",
+                    "file": "",
+                    "name": "Private Aimbot",
+                    "status": "Update",
+                    "updated_at": "2026-11-10T20:06:36"
+                }
+            ],
+            "image": "https://ibb.co/QjfK76wJ",
+            "process": "rust.exe",
+            "status": "Update",
+            "updated_at": "2026-11-10T20:06:36"
+        },
         "Valorant": {
             "cheats": [
                 {
@@ -119,7 +134,7 @@
             "updated_at": "2026-11-10T20:05:25"
         }
     },
-    "last_update": "2026-11-10T20:05:25",
+    "last_update": "2026-11-10T20:06:36",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
