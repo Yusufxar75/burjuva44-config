@@ -46,8 +46,8 @@
                     "exe": "",
                     "file": "",
                     "name": "Lua Executor",
-                    "status": "Undetect",
-                    "updated_at": "2026-11-10T20:04:41"
+                    "status": "Update",
+                    "updated_at": "2026-11-10T20:10:01"
                 },
                 {
                     "exe": "",
@@ -60,7 +60,7 @@
             "image": "https://ibb.co/3Yz0qTjz",
             "process": "fivem.exe",
             "status": "Update",
-            "updated_at": "2026-11-10T20:09:52"
+            "updated_at": "2026-11-10T20:10:01"
         },
         "PUBG": {
             "cheats": [
@@ -134,7 +134,7 @@
             "updated_at": "2026-11-10T20:05:25"
         }
     },
-    "last_update": "2026-11-10T20:09:52",
+    "last_update": "2026-11-10T20:10:01",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
