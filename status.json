@@ -6,19 +6,22 @@
                     "exe": "",
                     "file": "",
                     "name": "Private",
-                    "status": "Undetect"
+                    "status": "Undetect",
+                    "type": "external"
                 },
                 {
                     "exe": "",
                     "file": "",
                     "name": "Faceit",
-                    "status": "Update"
+                    "status": "Update",
+                    "type": "external"
                 },
                 {
                     "exe": "",
                     "file": "",
                     "name": "Dihvh",
-                    "status": "Update"
+                    "status": "Update",
+                    "type": "external"
                 }
             ],
             "image": "https://ibb.co/rRR7pfX7",
@@ -28,17 +31,18 @@
         "Craftrise": {
             "cheats": [
                 {
-                    "exe": "",
-                    "file": "",
-                    "name": "BurjuvaClient",
-                    "status": "Update",
-                    "updated_at": "2026-11-09T16:57:29"
+                    "exe": "cr.exe",
+                    "file": "Yusufxar75/craftrise/tree/main/cr/cr.exe",
+                    "name": "BurjuvaPrivate",
+                    "status": "Undetect",
+                    "type": "external",
+                    "updated_at": "2026-11-13T23:26:10"
                 }
             ],
             "image": "https://ibb.co/BVsX5MkP",
-            "process": "craftrise.exe",
-            "status": "Update",
-            "updated_at": "2026-11-09T16:57:29"
+            "process": "craftrise-x64.exe",
+            "status": "Undetect",
+            "updated_at": "2026-11-13T23:26:10"
         },
         "FiveM": {
             "cheats": [
@@ -47,6 +51,7 @@
                     "file": "",
                     "name": "Lua Executor",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:10:01"
                 },
                 {
@@ -54,6 +59,7 @@
                     "file": "",
                     "name": "Burjuva Spoofer",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:09:52"
                 }
             ],
@@ -68,19 +74,22 @@
                     "exe": "",
                     "file": "",
                     "name": "Private",
-                    "status": "Update"
+                    "status": "Update",
+                    "type": "external"
                 },
                 {
                     "exe": "",
                     "file": "",
                     "name": "Slotted",
-                    "status": "Update"
+                    "status": "Update",
+                    "type": "external"
                 },
                 {
                     "exe": "",
                     "file": "",
                     "name": "Rage Private",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:10:12"
                 }
             ],
@@ -96,6 +105,7 @@
                     "file": "",
                     "name": "Private Aimbot",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:06:36"
                 }
             ],
@@ -111,6 +121,7 @@
                     "file": "",
                     "name": "Private",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:10:27"
                 },
                 {
@@ -118,6 +129,7 @@
                     "file": "",
                     "name": "OneClick Spoofer",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:10:37"
                 },
                 {
@@ -125,6 +137,7 @@
                     "file": "",
                     "name": "BurjuvaDihvh",
                     "status": "Update",
+                    "type": "external",
                     "updated_at": "2026-11-10T20:05:25"
                 }
             ],
@@ -134,7 +147,7 @@
             "updated_at": "2026-11-10T20:10:37"
         }
     },
-    "last_update": "2026-11-10T20:10:37",
+    "last_update": "2026-11-13T23:26:10",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
