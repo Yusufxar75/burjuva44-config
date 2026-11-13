@@ -32,17 +32,17 @@
             "cheats": [
                 {
                     "exe": "cr.exe",
-                    "file": "Yusufxar75/craftrise/tree/main/cr/cr.exe",
+                    "file": "craftrise/tree/main/cr/cr.exe",
                     "name": "BurjuvaPrivate",
                     "status": "Undetect",
                     "type": "external",
-                    "updated_at": "2026-11-13T23:26:10"
+                    "updated_at": "2026-11-13T23:27:31"
                 }
             ],
             "image": "https://ibb.co/BVsX5MkP",
             "process": "craftrise-x64.exe",
             "status": "Undetect",
-            "updated_at": "2026-11-13T23:26:10"
+            "updated_at": "2026-11-13T23:27:31"
         },
         "FiveM": {
             "cheats": [
@@ -147,7 +147,7 @@
             "updated_at": "2026-11-10T20:10:37"
         }
     },
-    "last_update": "2026-11-13T23:26:10",
+    "last_update": "2026-11-13T23:27:31",
     "loader_version": "1.3.0",
     "status": "Online",
     "version": "1.0.0"
